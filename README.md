@@ -1,6 +1,6 @@
-# **Tsholofelo Bathusi**
+# **Tsholofelo Blessing Bathusi**
 
-[tsholo.iso](https://www.instagram.com/tsholo.iso/)
+IG~[tsholo.iso](https://www.instagram.com/tsholo.iso/)
 
 Student @ [BIUST](https://www.biust.ac.bw/)
 
