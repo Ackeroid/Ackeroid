@@ -1,3 +1,4 @@
+<div align="center">
 # **Tsholofelo Blessing Bathusi**
 
 ig~[tsholo.iso](https://www.instagram.com/tsholo.iso/)
@@ -13,3 +14,4 @@ Student @ [BIUST](https://www.biust.ac.bw/)
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,css,html,java,typescript,javascript,mysql" />
 </p>
+</div>
