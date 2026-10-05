@@ -1,17 +1,17 @@
 <div align="center">
-# **Tsholofelo Blessing Bathusi**
 
-ig~[tsholo.iso](https://www.instagram.com/tsholo.iso/)
+<h1>Tsholofelo Blessing Bathusi</h1>
 
-Student @ [BIUST](https://www.biust.ac.bw/)
+<a href="https://www.instagram.com/tsholo.iso/">tsholo.iso</a>
 
-**Aspiring Security Engineer**
+<p>Student @ <a href="https://www.biust.ac.bw/">BIUST</a></p>
 
-<p align="center">
-  <img src="assets/giphy.gif" alt="Coding animation" width="500">
-</p>
+<p><strong>Aspiring Security Engineer</strong></p>
 
-<p align="center">
+<img src="assets/giphy.gif" alt="Coding animation" width="500">
+
+<p>
   <img src="https://skillicons.dev/icons?i=c,cpp,css,html,java,typescript,javascript,mysql" />
 </p>
+
 </div>
