@@ -1,4 +1,4 @@
-<div align="center">
+<div align="right">
 
 <h1>Tsholofelo Blessing Bathusi</h1>
 
