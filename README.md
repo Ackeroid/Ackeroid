@@ -8,7 +8,7 @@
 
 <p><strong>Aspiring Security Engineer</strong></p>
 
-<img src="assets/giphy.gif" alt="Coding animation" width="500">
+<img src="assets/giphy.gif" alt="Coding animation" width="300">
 
 <p>
   <img src="https://skillicons.dev/icons?i=c,cpp,css,html,java,typescript,javascript,mysql" />
