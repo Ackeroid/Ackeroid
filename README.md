@@ -2,7 +2,7 @@
 
 <h1>Tsholofelo Blessing Bathusi</h1>
 
-<a href="https://www.instagram.com/tsholo.iso/">tsholo.iso</a>
+<p>ig~ <a href="https://www.instagram.com/tsholo.iso/">tsholo.iso</a></p>
 
 <p>Student @ <a href="https://www.biust.ac.bw/">BIUST</a></p>
 
